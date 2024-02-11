@@ -76,7 +76,8 @@ body{
 .deny{
   border-radius: 15%;
   float: right;
-  width:5vw;
+  width:fit-content;
+  height:5vh;
   padding: 1%;
   background-color: rgb(197, 93, 93);
   border-color:rgb(197, 93 , 93);
@@ -84,7 +85,7 @@ body{
 .accept{
   border-radius: 15%;
   float: left;
-  width:5vw;
+  width:fit-content;
   height:5vh;
   padding:1%;
   background-color: rgb(23, 177, 21);
